@@ -11,6 +11,7 @@ hkps://keys.openpgp.org
 
 https://keys.openpgp.org/vks/v1/by-fingerprint/B09F207A999E9A12AC8D2D0A18D798D496B5A996
 
+[File](yonggan@obco.pro/B09F207A999E9A12AC8D2D0A18D798D496B5A996.asc)
 
 <details>
 <summary>Click to view public key</summary>
@@ -67,6 +68,8 @@ zw7CDpjv7xliqA9ZFgAWaupIAmxx+iVCG6lR429QBziYmI9Wd/25vsRM9c0TFyY5
 
 https://keys.openpgp.org/vks/v1/by-fingerprint/532FF11609A6038A332197F3858134191E9D7322
 
+[File](admin@obco.pro/532FF11609A6038A332197F3858134191E9D7322.asc)
+
 <details>
 <summary>Click to view public key</summary>
 
@@ -116,10 +119,12 @@ CUTjImPsZdXiUVGOzLVg3OhMKUDHZv6cEoH6OI7rY9UCCpy77LbR6wiGPw==
 ```
 </details>
   
+
 ### andreschuele@obco.pro
 
-
 https://keys.openpgp.org/vks/v1/by-fingerprint/4F46EFD915B045E95582C2F04FC79319AC1D1921
+
+[File](andreschuele@obco.pro/4F46EFD915B045E95582C2F04FC79319AC1D1921.asc)
 
 <details>
 <summary>Click to view public key</summary>
