@@ -120,3 +120,7 @@ CUTjImPsZdXiUVGOzLVg3OhMKUDHZv6cEoH6OI7rY9UCCpy77LbR6wiGPw==
 
 https://keys.openpgp.org/vks/v1/by-fingerprint/4F46EFD915B045E95582C2F04FC79319AC1D1921
 
+<details>
+<summary>Click to view public key</summary>
+
+</details>
